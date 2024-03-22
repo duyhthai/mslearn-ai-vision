@@ -1,5 +1,7 @@
-$account_id="YOUR_ACCOUNT_ID"
+$account_id="17211d62-8e60-4eb3-b5cf-8b6667f7450f"
 $api_key="YOUR_API_KEY"
+
+# Azure resource location
 $location="trial"
 
 # Call the AccessToken method with the API key in the header to get an access token
